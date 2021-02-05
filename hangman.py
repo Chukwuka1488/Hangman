@@ -16,7 +16,6 @@ print(empty_word)
 
 # empty list
 guessed_letters = []
-guessed_words = []
 
 # no of tries
 tries = 8
