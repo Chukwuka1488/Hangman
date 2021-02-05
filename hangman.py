@@ -13,3 +13,7 @@ guess_word = random.choice(prog_lang)
 # computer choice is hidden
 empty_word = "-" * (len(guess_word))
 print(empty_word)
+
+# empty list
+guessed_letters = []
+guessed_words = []
