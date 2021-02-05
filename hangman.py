@@ -6,3 +6,6 @@ print()
 
 # list of words
 prog_lang = ['python', 'java', 'kotlin', 'javascript']
+
+# computer chooses from word
+guess_word = random.choice(prog_lang)
