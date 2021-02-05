@@ -6,6 +6,7 @@ prog_lang = ['python', 'java', 'kotlin', 'javascript']
 
 guess_word = random.choice(prog_lang)
 
+
 first_3 = guess_word[:3]
 
 last_n = guess_word[3:len(guess_word):1]
